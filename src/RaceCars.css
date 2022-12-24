@@ -1,0 +1,11 @@
+.RaceCars {
+    display: flex;
+  }
+  
+  .RaceCars-left,
+  .RaceCars-right {
+    width: 50%;
+    border: 1px solid blue;
+    padding: 20px;
+  }
+  
